@@ -1,0 +1,111 @@
+body {
+  width: 100%;
+}
+
+#wrapper {
+  margin: 0 auto;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+
+#nav {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  margin-top: 2rem;
+}
+
+#nav li {
+  flex-basis:33.3%;
+  text-align: center;
+  background-color: #b9b9b9;
+  border: 1px solid grey;
+}
+
+#nav li.active {
+  background-color: white;
+}
+
+#main {
+  margin: 0 auto;
+  margin-top: 2rem;
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+}
+
+#left {
+  flex-basis: 50%;
+}
+
+#left h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+#left a {
+  padding-top: 1rem;
+  text-align:center;
+}
+
+#left a p {
+  padding-top: 1rem;
+}
+
+#right {
+  flex-basis: 50%;
+}
+
+#right img {
+  width: 100%;
+  height: 70%;
+}
+
+#right button {
+  border: 1px solid grey;
+  border-radius: .5rem;
+  padding: .5rem 2em .5rem 2rem;
+  margin-top: 1rem;
+  margin: 2rem;
+  flex-basis: 50%;
+}
+
+#buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+#map {
+  display: flex;
+  flex-direction: row;
+}
+
+#leftMap {
+  text-align: center;
+  flex-basis:50%;
+  display:flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+#rightMap {
+  text-align: center;
+  flex-basis:50%;
+  display:flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+#map h2 {
+  background-color: skyblue;
+  padding: 2rem;
+  margin: 1rem;
+}
+
+#map h3 {
+  background-color: skyblue;
+  padding: 1rem;
+  margin: 2rem;
+}
