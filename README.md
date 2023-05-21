@@ -8,7 +8,7 @@ Sorayya
 Mohammed  
 Ignacio  
 
-## Sprint 0 Uppdrag
+##Uppdrag
 Skapa en plattform för studenter på Grit Academy som söker LIA. Kunden är Yrkeshögskolemyndigheten. Plattformen kommer först att vara för Grit Academy, men tanken är att den sedan ska kunna förvaltas och vidareutvecklas för andra Yrkeshögskolor, baserat på feedback från nuvarande användare.
 
 ## Målgruppsanalys & Intressenter
