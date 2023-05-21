@@ -54,11 +54,4 @@ Budget och Tid
 
 4 veckor tid
 Startbudget: 50 000 kr
-Arbetsgrupp och Tidsfördelning
-Vecka 1	Vecka 2	Vecka 3	Vecka 4
-Dany	4h	4h	4h	4h
-ZJ	3h	5h	6h	3h
-Berna	3h	6h	8h	5h
-Sorayya	5h	3h	4h	5h
-Mohammed	4h	6h	4h	8h
-Ignacio	3h	5h	6h	4h
+
